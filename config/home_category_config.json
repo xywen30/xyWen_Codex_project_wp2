@@ -1,0 +1,72 @@
+[
+  {
+    "category_id": "kitchen",
+    "category_cn": "厨房用品",
+    "keywords_ru": ["кухонный органайзер", "посуда", "контейнер для еды", "сушилка для посуды", "держатель для бумажных полотенец", "кухонный коврик"],
+    "keywords_zh": ["厨房收纳", "餐具", "保鲜盒", "沥水架", "纸巾架", "厨房地垫"],
+    "keywords_en": ["kitchen organizer", "tableware", "food container", "dish rack", "paper towel holder", "kitchen mat"]
+  },
+  {
+    "category_id": "storage",
+    "category_cn": "收纳整理",
+    "keywords_ru": ["контейнер для хранения", "коробка для хранения", "вакуумные пакеты", "органайзер для ящиков", "корзина для белья", "органайзер для одежды"],
+    "keywords_zh": ["收纳盒", "储物箱", "真空收纳袋", "抽屉收纳", "脏衣篮", "衣物收纳"],
+    "keywords_en": ["storage box", "storage bin", "vacuum storage bag", "drawer organizer", "laundry basket", "clothes organizer"]
+  },
+  {
+    "category_id": "decor",
+    "category_cn": "家居装饰",
+    "keywords_ru": ["декор для дома", "ваза для цветов", "декоративная подушка", "настенное зеркало", "картина для интерьера", "ароматическая свеча"],
+    "keywords_zh": ["家居摆件", "花瓶", "装饰抱枕", "墙镜", "装饰画", "香薰蜡烛"],
+    "keywords_en": ["home decor", "flower vase", "decorative pillow", "wall mirror", "wall art", "scented candle"]
+  },
+  {
+    "category_id": "lighting",
+    "category_cn": "灯具照明",
+    "keywords_ru": ["настольная лампа", "ночник", "светодиодная лента", "торшер", "настенный светильник", "лампа для чтения"],
+    "keywords_zh": ["台灯", "夜灯", "灯带", "落地灯", "壁灯", "阅读灯"],
+    "keywords_en": ["table lamp", "night light", "led strip", "floor lamp", "wall lamp", "reading lamp"]
+  },
+  {
+    "category_id": "bathroom",
+    "category_cn": "浴室用品",
+    "keywords_ru": ["полотенце", "коврик для ванной", "дозатор для мыла", "органайзер для ванной", "шторка для ванной", "полка для ванной"],
+    "keywords_zh": ["毛巾", "浴室地垫", "皂液器", "浴室收纳", "浴帘", "浴室置物架"],
+    "keywords_en": ["towel", "bath mat", "soap dispenser", "bathroom organizer", "shower curtain", "bathroom shelf"]
+  },
+  {
+    "category_id": "cleaning",
+    "category_cn": "清洁用品",
+    "keywords_ru": ["средство для мытья посуды", "стиральный порошок", "гель для стирки", "швабра", "щетка для уборки", "салфетки для уборки"],
+    "keywords_zh": ["洗洁精", "洗衣粉", "洗衣液", "拖把", "清洁刷", "清洁布"],
+    "keywords_en": ["dishwashing liquid", "laundry detergent", "laundry gel", "mop", "cleaning brush", "cleaning cloth"]
+  },
+  {
+    "category_id": "textile",
+    "category_cn": "家纺",
+    "keywords_ru": ["постельное белье", "постельного белья", "одеяло", "подушка", "простыня", "наволочка", "плед"],
+    "keywords_zh": ["床品套件", "被子", "枕头", "床单", "枕套", "盖毯"],
+    "keywords_en": ["bed linen", "blanket", "pillow", "bed sheet", "pillowcase", "throw blanket"]
+  },
+  {
+    "category_id": "furniture",
+    "category_cn": "家具/置物用品",
+    "keywords_ru": ["стеллаж", "полка для дома", "подставка для обуви", "вешалка для одежды", "прикроватный столик", "складной стул"],
+    "keywords_zh": ["置物架", "家用隔板", "鞋架", "衣架", "床头桌", "折叠椅"],
+    "keywords_en": ["shelving unit", "home shelf", "shoe rack", "clothes rack", "bedside table", "folding chair"]
+  },
+  {
+    "category_id": "garden",
+    "category_cn": "花园园艺",
+    "keywords_ru": ["кашпо для цветов", "садовый инвентарь", "лейка для цветов", "садовый шланг", "опора для растений", "садовый декор"],
+    "keywords_zh": ["花盆", "园艺工具", "浇水壶", "花园水管", "植物支架", "庭院装饰"],
+    "keywords_en": ["flower pot", "garden tools", "watering can", "garden hose", "plant support", "garden decor"]
+  },
+  {
+    "category_id": "creative_living",
+    "category_cn": "创意家居/生活用品",
+    "keywords_ru": ["товары для дома", "мини мусорное ведро", "крючки самоклеящиеся", "аромадиффузор", "увлажнитель воздуха", "емкость для воды"],
+    "keywords_zh": ["生活用品", "迷你垃圾桶", "免钉挂钩", "香薰机", "加湿器", "储水容器"],
+    "keywords_en": ["household goods", "mini trash bin", "adhesive hook", "aroma diffuser", "humidifier", "water container"]
+  }
+]

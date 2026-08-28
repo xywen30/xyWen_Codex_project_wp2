@@ -1,0 +1,16 @@
+.venv/
+node_modules/
+__pycache__/
+.pytest_cache/
+.test-tmp/
+.env
+runtime/run.lock
+*.pyc
+backups/
+logs/
+runtime/
+database/
+reports/
+data/
+.pytest-tmp-*/
+.test-tmp-*/

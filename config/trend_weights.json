@@ -1,0 +1,8 @@
+{
+  "rank_velocity": 0.30,
+  "rank_acceleration": 0.20,
+  "keyword_coverage_growth": 0.15,
+  "presence_rate": 0.15,
+  "engine_agreement": 0.10,
+  "search_visibility": 0.10
+}
